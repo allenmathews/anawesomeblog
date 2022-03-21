@@ -1,0 +1,50 @@
+h1 {
+    font-weight: bold;
+    font-size: 48px;
+    color: #2E7AD3;
+    margin: 45px 0;
+    text-align: center;
+}
+
+h2 {
+    margin: 0px 0px 10px 0px;
+    font-size: 32px;
+    color: #104C90;
+}
+
+
+/* p {
+    font-size: 16px;
+    margin: 9px;
+} */
+
+a {
+    color: #ff8000;
+    font-weight: bold;
+}
+
+a:focus,
+a:hover {
+    color: #104c90;
+}
+
+.blog-post {
+    /* text-align: center; */
+    width: 450px;
+    background-color: #f1f1f1;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+img {
+    height: 400px;
+    width: 425px;
+}
+
+body {
+    font-size: 16px;
+}
+
+.read-more {
+    margin: 0;
+}
